@@ -1,2 +1,2 @@
-# SchoolClasses
-A repo containing code from my time in school studying Computer Engineering
+# Computer Architecture
+A repo containing code from projects worked on in my Computer Architecture Class
